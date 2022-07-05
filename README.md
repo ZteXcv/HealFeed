@@ -1,2 +1,2 @@
 # HealFeed
-Heal ke Feed in you server fiture
+Heal and Feed in you server fiture
